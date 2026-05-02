@@ -5,7 +5,7 @@ The following list contains AWS services and features that are in scope for the 
 
 
 
-📊 Analytics 
+Analytics 
 
 Amazon Athena: A serverless query service that lets you analyze data in S3 using SQL.  
 
@@ -29,7 +29,8 @@ Amazon QuickSight: A business intelligence service for creating interactive dash
 
 Amazon Redshift: A fully managed data warehouse service for large-scale data analytics.  
 
-🔗 Application Integration 
+
+Application Integration 
 
 Amazon AppFlow: A service for securely transferring data between SaaS apps and AWS services.  
 
@@ -45,7 +46,8 @@ Amazon SQS: A message queuing service for decoupling distributed applications.
 
 AWS Step Functions: A service for orchestrating workflows using state machines.  
 
-💰 AWS Cost Management 
+
+AWS Cost Management 
 
 AWS Budgets: A tool to set custom cost and usage budgets and receive alerts.  
 
@@ -55,7 +57,8 @@ AWS Cost Explorer: A tool for visualizing and analyzing AWS spending over time.
 
 Savings Plans: A pricing model offering discounted rates in exchange for committed usage.  
 
-🖥️ Compute 
+
+Compute 
 
 AWS Batch: A service for running batch computing jobs at any scale.  
 
@@ -73,7 +76,8 @@ VMware Cloud on AWS: A service for running VMware workloads natively on AWS.
 
 AWS Wavelength: A service that delivers ultra-low latency applications using 5G networks.  
 
-📦 Containers 
+
+Containers 
 
 Amazon ECR: A managed container image registry.  
 
@@ -87,7 +91,8 @@ Amazon EKS Anywhere: A way to run Kubernetes on-premises using EKS tooling.
 
 Amazon EKS Distro: A Kubernetes distribution used by EKS.  
 
-🗄️ Database 
+
+Database 
 
 Amazon Aurora: A high-performance, MySQL- and PostgreSQL-compatible relational database.  
 
@@ -107,11 +112,13 @@ Amazon RDS: A managed relational database service.
 
 Amazon Redshift: A data warehouse for analytics workloads.  
 
-🛠️ Developer Tools 
+
+Developer Tools 
 
 AWS X-Ray: A service for analyzing and debugging distributed applications.  
 
-🌐 Front-End Web and Mobile 
+
+Front-End Web and Mobile 
 
 AWS Amplify: A platform for building and deploying full-stack web and mobile apps.  
 
@@ -119,7 +126,8 @@ Amazon API Gateway: A service for creating, publishing, and managing APIs.
 
 AWS Device Farm: A service for testing mobile apps on real devices.  
 
-🤖 Machine Learning 
+
+Machine Learning 
 
 Amazon Comprehend: A service for natural language processing and text analysis.  
 
@@ -139,7 +147,8 @@ Amazon Transcribe: A speech-to-text service.
 
 Amazon Translate: A neural machine translation service.  
 
-⚙️ Management and Governance 
+
+Management and Governance 
 
 AWS Auto Scaling: A service that automatically adjusts resources across multiple services.  
 
@@ -177,13 +186,15 @@ AWS Trusted Advisor: A service that provides best practice recommendations.
 
 AWS Well-Architected Tool: A tool for reviewing architectures against AWS best practices.  
 
-🎬 Media Services 
+
+Media Services 
 
 Amazon Elastic Transcoder: A service for converting media files into different formats.  
 
 Amazon Kinesis Video Streams: A service for securely streaming video data.  
 
-🚚 Migration and Transfer 
+
+Migration and Transfer 
 
 AWS Application Migration Service: A service for migrating applications to AWS with minimal downtime.  
 
@@ -195,7 +206,8 @@ AWS Snow Family: A set of physical devices for data transfer and edge computing.
 
 AWS Transfer Family: A service for transferring files using SFTP, FTPS, and FTP.  
 
-🌍 Networking and Content Delivery 
+
+Networking and Content Delivery 
 
 AWS Client VPN: A managed VPN service for secure remote access.  
 
@@ -217,7 +229,8 @@ AWS Transit Gateway: A service that connects multiple VPCs and networks.
 
 Amazon VPC: A logically isolated virtual network in AWS.  
 
-🔐 Security, Identity, and Compliance 
+
+Security, Identity, and Compliance 
 
 AWS Artifact: A service for accessing AWS compliance reports.  
 
@@ -259,7 +272,8 @@ AWS WAF: A web application firewall service.
 
 IAM: A service for managing access to AWS resources.  
 
-⚡ Serverless 
+
+Serverless 
 
 AWS AppSync: A GraphQL API service with real-time capabilities.  
 
@@ -267,7 +281,8 @@ AWS Fargate: A serverless compute engine for containers.
 
 AWS Lambda: A serverless compute service that runs code in response to events.  
 
-💾 Storage 
+
+Storage 
 
 AWS Backup: A service for centrally managing backups.  
 
