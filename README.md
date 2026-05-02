@@ -1,5 +1,9 @@
 # AWS-SAA-C03-Anki
-In-Scope AWS Services: 
+In-Scope AWS Services
+
+The following list contains AWS services and features that are in scope for the exam. This list is non-exhaustive and is subject to change. AWS offerings appear in categories that align with the offerings' primary functions:
+
+
 
 📊 Analytics 
 
@@ -278,3 +282,6 @@ Amazon S3: An object storage service.
 Amazon S3 Glacier: A low-cost storage service for archival data.  
 
 AWS Storage Gateway: A hybrid storage service connecting on-premises systems to AWS. 
+
+
+https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-in-scope-services.html
